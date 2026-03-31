@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TAM-MS SERVICES</title>
+
+  <!-- Google AdSense Placeholder -->
+  <!-- Remplace ca par ton code AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+  <style>
+    body { margin:0; font-family: Arial, sans-serif; background:#f4f4f4; }
+    header { background:#0a2540; color:white; padding:20px; text-align:center; }
+    nav { background:#133b5c; padding:10px; text-align:center; }
+    nav a { color:white; margin:0 15px; text-decoration:none; font-weight:bold; }
+    .hero { background:#1e6091; color:white; padding:60px 20px; text-align:center; }
+    .container { padding:40px 20px; }
+    .services { display:grid; grid-template-columns: repeat(auto-fit, minmax(250px,1fr)); gap:20px; }
+    .card { background:white; padding:20px; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.1); }
+    .ads { background:#ffd166; padding:20px; text-align:center; margin:20px 0; }
+    footer { background:#0a2540; color:white; text-align:center; padding:20px; }
+
+    /* WhatsApp button */
+    .whatsapp {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: #25D366;
+      color: white;
+      padding: 15px;
+      border-radius: 50%;
+      text-decoration: none;
+      font-size: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<header style="display:flex; align-items:center; justify-content:center; flex-direction:column; gap:10px;">
+  <img src="logo.png" alt="TAM-MS SERVICES Logo" style="width:120px;">
+  <h1 style="font-size:32px; letter-spacing:2px; margin:0;">TAM-MS SERVICES</h1>
+  <p style="margin:0; font-weight:300;">Votre satisfaction est notre priorité</p>
+</header>
+
+<nav>
+  <a href="#services">Services</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section class="hero">
+  <h2>Bienvenue chez TAM-MS SERVICES</h2>
+  <p>Des solutions professionnelles adaptées à vos besoins</p>
+</section>
+
+<div class="container">
+
+  <!-- Publicité Google -->
+  <div class="ads">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-XXXXXXXX"
+         data-ad-slot="1234567890"
+         data-ad-format="auto"></ins>
+  </div>
+
+  <h2 id="services">Nos Services</h2>
+  <div class="services">
+
+    <div class="card">
+      <h3>Fourniture d'équipements</h3>
+      <p>Vente et approvisionnement en matériels industriels de qualité.</p>
+    </div>
+
+    <div class="card">
+      <h3>Gestion du personnel</h3>
+      <p>Mise à disposition de ressources humaines qualifiées pour vos projets.</p>
+    </div>
+
+    <div class="card">
+      <h3>Logistique</h3>
+      <p>Solutions de transport et gestion efficace de la chaîne d'approvisionnement.</p>
+    </div>
+
+  </div>
+
+  <!-- Publicité Google -->
+  <div class="ads">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-XXXXXXXX"
+         data-ad-slot="9876543210"
+         data-ad-format="auto"></ins>
+  </div>
+
+</div>
+
+<footer id="contact">
+  <h3>Contact</h3>
+  <p>Email : contact@tam-ms.com</p>
+  <p>Téléphones : +242 066773511 | +242 066819102 | +242 065044732</p>
+  <p>WhatsApp : +242 053245282</p>
+  <p>&copy; 2026 TAM-MS SERVICES - Tous droits réservés</p>
+</footer>
+
+<!-- Bouton WhatsApp -->
+<a class="whatsapp" href="https://wa.me/244900000000" target="_blank">💬</a>
+
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</body>
+</html>
